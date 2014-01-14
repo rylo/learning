@@ -1,0 +1,29 @@
+body{
+  background-color:#FFF; 
+  font-family:"Open Sans", sans-serif; 
+  font-size:14px;
+  -webkit-font-smoothing: antialiased;
+  margin: 10;
+}
+
+h2{
+  font-size: 18px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 32rem;
+  width 90%;
+}
+
+.box {
+  width: 90%;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+  padding: 3% 3% 0 0;
+  background: #fff8dc;
+  -webkit-box-shadow: 0 1px 3px rgba(64, 56, 41, 0.2);
+  -moz-box-shadow: 0 1px 3px rgba(64, 56, 41, 0.2);
+  box-shadow: 0 1 1px 3px
+  
+}
